@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "hardhat": "^2.9.9"
   }
 }
